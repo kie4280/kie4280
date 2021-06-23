@@ -2,9 +2,9 @@
 
 :closed_book: Studying in EECS at NCTU, Taiwan
 
-🔭 I’m currently working on a universal app for Google Drive
+🔭 I’m currently working on an online backup system
 
-🌱 I’m currently learning Go, Kotlin
+🌱 I’m currently learning Go, Kotlin, Nodejs, React
 
 📫 How to reach me: 
 <a href="https://www.facebook.com/profile.php?id=100000589183114"><img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" width="24" height="24">
