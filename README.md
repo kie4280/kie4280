@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:closed_book: Studying in EECS at NCTU, Taiwan
+:closed_book: Studying EECS at NYCU (formerly known as NCTU), Taiwan
 
 🔭 I’m currently working on an online backup system
 
