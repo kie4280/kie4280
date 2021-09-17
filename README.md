@@ -2,9 +2,9 @@
 
 :closed_book: Studying EECS at NYCU (formerly known as NCTU), Taiwan
 
-🔭 I’m currently working on an online backup system
+🔭 I’m currently working on machine learning and computer vision related stuff
 
-🌱 I’m currently learning Go, Kotlin, Nodejs, React
+🌱 I’m currently learning Nodejs, React, HTML, CSS, Tensorflow
 
 📫 How to reach me: 
 <a href="https://www.facebook.com/profile.php?id=100000589183114"><img src="https://image.flaticon.com/icons/svg/1384/1384053.svg" width="24" height="24">
