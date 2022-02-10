@@ -2,6 +2,8 @@
 
 :closed_book: Studying EECS at NYCU (formerly known as NCTU), Taiwan
 
+:us: Currently an exchange student in ECE at University of Illinois Urbana-Champaign
+
 🔭 I’m currently working on machine learning and computer vision related stuff
 
 🌱 I’m currently learning Nodejs, React, HTML, CSS, Tensorflow
