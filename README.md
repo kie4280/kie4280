@@ -4,7 +4,7 @@
 
 :us: Currently an exchange student in ECE at University of Illinois Urbana-Champaign
 
-🔭 I’m currently working on machine learning and computer vision related stuff
+🔭 I’m currently working on computer vision projects and my personal website
 
 🌱 I’m currently learning Nodejs, React, HTML, CSS, Tensorflow
 
