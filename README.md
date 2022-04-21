@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:closed_book: Honors Program in Electrical Engineering and Computer Science at NYCU (formerly known as NCTU), Taiwan
+:closed_book: BS in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
 
 :us: Currently an exchange student in ECE at University of Illinois Urbana-Champaign
 
