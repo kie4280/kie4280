@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on staying healthy
 
-🌱 I’m currently learning x86 assembly, Qt/QML. Maybe someday: React, HTML, CSS
+🌱 I’m currently learning x86 assembly, Qt/QML, ROS. Maybe someday: React, HTML, CSS
 
 📫 How to reach me: <a href="https://www.facebook.com/chenkai.chang.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
 <a href="https://www.instagram.com/kiezhung/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
