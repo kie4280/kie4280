@@ -2,8 +2,6 @@
 
 :closed_book: BS in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
 
-:us: Currently an exchange student in ECE at University of Illinois Urbana-Champaign
-
 🔭 I’m currently working on staying healthy
 
 🌱 I’m currently learning x86 assembly, Qt/QML, ROS. Maybe someday: React, HTML, CSS
