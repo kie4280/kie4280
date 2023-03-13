@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-:closed_book: BS in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
 
-🔭 I’m currently working on staying healthy
 
-🌱 I’m currently learning x86 assembly, Qt/QML, ROS. Maybe someday: React, HTML, CSS
+:closed_book: B.S. in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
+
+🔭 I’m currently working on some random shit
+
+🌱 I’m currently learning Qt/QML, distributed systems, P2P. Maybe someday: React, HTML, CSS, ROS
 
 📫 How to reach me: <a href="https://www.facebook.com/chenkai.chang.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
 <a href="https://www.instagram.com/kiezhung/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
