@@ -4,7 +4,7 @@
 
 📕 Pursuing a M.S degree in Computer Science at NYCU, Taiwan starting 2023
 
-❤️ Interested in Computer Vision, Backend Engineering.
+❤️ Interested in Computer Vision, Backend Engineering, FPGAs.
 
 🔭 I’m currently working on some random shit
 
