@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on some random shit
 
-🌱 I’m currently learning Qt/QML, distributed systems, P2P. Maybe someday: React, HTML, CSS, ROS
+🌱 I’m currently learning Qt/QML. Maybe someday: React, HTML, CSS, ROS
 
 📫 How to reach me: <a href="https://www.facebook.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
 <a href="https://www.instagram.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
