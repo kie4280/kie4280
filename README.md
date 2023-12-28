@@ -2,13 +2,13 @@
 
 🧑🏼‍🎓 B.S. in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
 
-📕 Pursuing a M.S degree in Computer Science at NYCU, Taiwan starting 2023. Research focused on Computer Vision.
+📕 Pursuing an M.S. in Computer Science at NYCU, Taiwan starting in 2023. Research focused on Computer Vision.
 
 ❤️ Interested in Computer Vision, Backend Engineering, FPGAs.
 
-🔭 I’m currently working on homeworks, again! (sigh)
+🔭 I’m currently working on homework, again! (sigh)
 
-🌱 I’m currently learning React + vite-ssr-plugin, nothing too serious, just for fun. 
+🌱 Maybe someday: learning React + vite-ssr-plugin, nothing too serious, just for fun. 
 
 📫 How to reach me: <a href="https://www.facebook.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
 <a href="https://www.instagram.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
