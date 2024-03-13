@@ -6,9 +6,9 @@
 
 ❤️ Interested in Computer Vision, Backend Engineering, FPGAs.
 
-🔭 I’m currently working on homework, again! (sigh)
+🔭 I’m currently working on my research. Hope everything goes well 🙏.
 
-🌱 Maybe someday: learning React + vite-ssr-plugin, nothing too serious, just for fun. 
+🌱 Maybe someday: learning React + vike, nothing too serious, just for fun. 
 
 📫 How to reach me: <a href="https://www.facebook.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
 <a href="https://www.instagram.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
