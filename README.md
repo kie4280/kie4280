@@ -4,7 +4,7 @@
 
 📕 Pursuing an M.S. in Computer Science at NYCU, Taiwan starting in 2023. Research focused on Computer Vision.
 
-❤️ Interested in Computer Vision, Backend Engineering, FPGAs.
+❤️ Interested in Computer Vision, full stack development, FPGAs.
 
 🔭 I’m currently working on my research. Hope everything goes well 🙏.
 
