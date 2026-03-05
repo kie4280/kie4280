@@ -2,7 +2,7 @@
 
 🧑🏼‍🎓 B.S. in Electrical Engineering and Computer Science Honors Program at NYCU (formerly known as NCTU), Taiwan
 
-📕 Pursuing a M.S. degree in Computer Science and Engineering at NYCU, Taiwan starting in 2023. Research focused on Computer Vision.
+📕 M.S. in Computer Science and Engineering at NYCU, Taiwan. Research focused on efficient adaptation of image models to video models.
 
 ❤️ Interested in Computer Vision, full stack development, FPGAs, hardware AI accelerators.
 
