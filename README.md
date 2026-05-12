@@ -6,15 +6,26 @@
 
 ❤️ Interested in Computer Vision, full stack development, FPGAs, hardware AI accelerators.
 
-🔭 I’m currently working on my research. Hope everything goes well 🙏.
+🔭 I’m currently working in office🤮🤮🤮. Hope everything goes well 🙏.
 
-🌱 Maybe someday: learning React + Astro.js, nothing too serious, just for fun. 
+🌱 Maybe someday: learning Zig, React + Astro.js, nothing too serious, just for fun. 
 
-📫 How to reach me: <a href="https://www.facebook.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="24" height="24">
-<a href="https://www.instagram.com/ckc.eecs/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="24" height="24">
-<a href="https://twitter.com/kie4280"><img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="24" height="24">
-<a href="https://www.linkedin.com/in/chen-kai-chang"><img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="24" height="24">
-<a href="https://github.com/kie4280/"><img src="https://img.icons8.com/material-rounded/96/000000/github.png" width="24" height="24">
+📫 How to reach me: 
+<a href="https://github.com/kie4280/">
+  <img src="https://img.icons8.com/material-rounded/96/000000/github.png" width="32" height="32" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/chen-kai-chang">
+  <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="32" height="32" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/kie4280">
+  <img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="32" height="32" alt="Twitter">
+</a>
+<a href="https://www.instagram.com/ckc.eecs/">
+  <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="32" height="32" alt="Instagram">
+</a>
+<a href="https://www.facebook.com/ckc.eecs/">
+  <img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" width="32" height="32" alt="Facebook">
+</a>
 
 Open to making friends🥹
   
