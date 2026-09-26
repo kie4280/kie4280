@@ -6,7 +6,7 @@
 
 ❤️ Interested in Computer Vision, full stack development, FPGAs, hardware AI accelerators.
 
-🔭 I’m currently working in office🤮🤮🤮. Hope everything goes well 🙏.
+🔭 Currently working🤮🤮🤮. Hope everything goes well 🙏.
 
 🌱 Maybe someday: learning Zig, React + Astro.js, nothing too serious, just for fun. 
 
